@@ -1,5 +1,3 @@
 # 14-Csharp-Recap-HuWoj
 
-Hilfe?!
-
-Noch mehr Hilfe?!
+Variablen deklariert und zugewiesen
